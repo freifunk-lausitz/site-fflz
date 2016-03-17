@@ -9,11 +9,9 @@ Dieses Repoistory beeinhaltet die configuration der Firmware.
 ## Netz Daten
 
 * interne TLD: .fflz
-* IPv6 2001:4dd0:fbc3::/48
-  * Nodes Domaene 1: 2001:4dd0:fbc3:1000::/64
-
-* IPv4 10.111.0.0/16
-  * Nodes Domaene 1: 10.111.0.0/21
+* Nodes Domaene 1:
+  * ipv6: fd25:1952:c72e:0001::/64
+  * ipv4: 10.111.0.0/21
 
 
 # Todo
