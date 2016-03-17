@@ -1,7 +1,7 @@
 
 # Freifunk Lausitz
 
-https://www.freifunk-lausitz.net/
+https://www.freifunk-lausitz.de/
 
 Dieses Repoistory beeinhaltet die configuration der Firmware.
 
@@ -16,9 +16,9 @@ Dieses Repoistory beeinhaltet die configuration der Firmware.
 
 # Todo
 
-* freirunk-lausitz.net einrichten auf dns
-  * gwdom1-1.freifunk-lausitz.net
-  * gwdom1-2.freifunk-lausitz.net
+* freirunk-lausitz.de einrichten auf dns
+  * gwdom1-1.freifunk-lausitz.de
+  * gwdom1-2.freifunk-lausitz.de
 * fflz domain
   * 1.ntp.services.fflz
   * 2.ntp.services.fflz
@@ -26,6 +26,6 @@ Dieses Repoistory beeinhaltet die configuration der Firmware.
 * /stable/sysupgrade
 * pl / cz translation
 * mail einrichten:
-  * keys@freifunk-lausitz.net
-  * info@freifunk-lausitz.network
+  * keys@freifunk-lausitz.de
+  * info@freifunk-lausitz.de
 
